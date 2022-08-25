@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 25 14:25:31 MSK 2022","Thu Aug 25 14:25:37 MSK 2022","5244","","The Internet Guinea Pig Website: As am logIn in the page","","The Internet Guinea Pig Website: As am logIn in the page","Given I am on the home page demoqa1","Given I am on the home page demoqa1",""
+"passed","Thu Aug 25 14:25:37 MSK 2022","Thu Aug 25 14:25:37 MSK 2022","1","","The Internet Guinea Pig Website: As am logIn in the page","","The Internet Guinea Pig Website: As am logIn in the page","","",""
+"passed","Thu Aug 25 14:25:37 MSK 2022","Thu Aug 25 14:25:37 MSK 2022","66","","The Internet Guinea Pig Website: As am logIn in the page","","The Internet Guinea Pig Website: As am logIn in the page","Then I expect home page is displayed","Then I expect home page is displayed",""

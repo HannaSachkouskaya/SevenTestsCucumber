@@ -1,0 +1,29 @@
+{
+    "name": "seventests",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "wdio wdio.conf.js",
+        "wdio": "wdio run wdio.conf.js",     
+       "allure-reports": "allure generate && allure open"
+       
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "allure-commandline": "^2.18.1",
+        "chai": "^4.3.6",
+        "cucumber": "^6.0.7"
+    },
+    "devDependencies": {
+        "@wdio/allure-reporter": "^7.23.0",
+        "@wdio/cli": "^7.20.9",
+        "@wdio/cucumber-framework": "^7.20.8",
+        "@wdio/local-runner": "^7.20.9",
+        "@wdio/spec-reporter": "^7.20.8",
+        "chromedriver": "^103.0.0",
+        "wdio-chromedriver-service": "^7.3.2"
+    }
+}

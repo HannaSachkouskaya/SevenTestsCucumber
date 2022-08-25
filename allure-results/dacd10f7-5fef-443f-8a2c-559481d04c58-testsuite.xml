@@ -1,0 +1,623 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1661443342677' stop='1661443356507'>
+    <name>The Internet Guinea Pig Website: I am verify Widgets item</name>
+    <title>The Internet Guinea Pig Website: I am verify Widgets item</title>
+    <test-cases>
+        <test-case start='1661443342678' status='passed' stop='1661443342679'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443342679' status='passed' stop='1661443354679'>
+            <name>Given I am on the home page demoqa5</name>
+            <title>Given I am on the home page demoqa5</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443354680' status='passed' stop='1661443354737'>
+            <name>Then I expect home page5 is displayed</name>
+            <title>Then I expect home page5 is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443354737' status='passed' stop='1661443354776'>
+            <name>Then I expect to displayed Widgets Button "Widgets"</name>
+            <title>Then I expect to displayed Widgets Button "Widgets"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443354776' status='passed' stop='1661443354791'>
+            <name>When I scroll on Widgets Button "Widgets"</name>
+            <title>When I scroll on Widgets Button "Widgets"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443354791' status='passed' stop='1661443354837'>
+            <name>Then I expect that Widgets Button is clickable "Widgets"</name>
+            <title>Then I expect that Widgets Button is clickable "Widgets"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443354837' status='passed' stop='1661443354915'>
+            <name>When I click on Widgets Button "Widgets"</name>
+            <title>When I click on Widgets Button "Widgets"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443354915' status='passed' stop='1661443354950'>
+            <name>Then I expect to displayed Tab Button "Tabs"</name>
+            <title>Then I expect to displayed Tab Button "Tabs"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443354950' status='passed' stop='1661443354964'>
+            <name>When I scroll on Tab Button "Tabs"</name>
+            <title>When I scroll on Tab Button "Tabs"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443354964' status='passed' stop='1661443354987'>
+            <name>Then I expect that Tab Button is clickable "Tabs"</name>
+            <title>Then I expect that Tab Button is clickable "Tabs"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443354987' status='passed' stop='1661443355034'>
+            <name>When I click on Tab Button "Tabs"</name>
+            <title>When I click on Tab Button "Tabs"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355034' status='passed' stop='1661443355067'>
+            <name>Then I expect to displayed What Tab "What"</name>
+            <title>Then I expect to displayed What Tab "What"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355067' status='passed' stop='1661443355090'>
+            <name>Then I expect that What Tab is clickable "What"</name>
+            <title>Then I expect that What Tab is clickable "What"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355090' status='passed' stop='1661443355160'>
+            <name>When I click on What Tab "What"</name>
+            <title>When I click on What Tab "What"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355160' status='passed' stop='1661443355192'>
+            <name>Then I expect to displayed What Tab Content "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."</name>
+            <title>Then I expect to displayed What Tab Content "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355192' status='passed' stop='1661443355222'>
+            <name>Then I expect to displayed Origin Tab "Origin"</name>
+            <title>Then I expect to displayed Origin Tab "Origin"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355222' status='passed' stop='1661443355240'>
+            <name>Then I expect that Origin Tab is clickable "Origin"</name>
+            <title>Then I expect that Origin Tab is clickable "Origin"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355240' status='passed' stop='1661443355280'>
+            <name>When I click on Origin Tab "Origin"</name>
+            <title>When I click on Origin Tab "Origin"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355280' status='passed' stop='1661443355316'>
+            <name>Then I expect to displayed Origin Tab Content "Contrary to popular belief, Lorem Ipsum is not simply random text"</name>
+            <title>Then I expect to displayed Origin Tab Content "Contrary to popular belief, Lorem Ipsum is not simply random text"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355316' status='passed' stop='1661443355342'>
+            <name>Then I expect to displayed Use Tab "Use"</name>
+            <title>Then I expect to displayed Use Tab "Use"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355342' status='passed' stop='1661443355359'>
+            <name>Then I expect that Use Tab is clickable "Use"</name>
+            <title>Then I expect that Use Tab is clickable "Use"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355359' status='passed' stop='1661443355394'>
+            <name>When I click on Use Tab "Use"</name>
+            <title>When I click on Use Tab "Use"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355394' status='passed' stop='1661443355963'>
+            <name>Then I expect to displayed Use Tab Content "It is a long established fact that a reader will be distracted"</name>
+            <title>Then I expect to displayed Use Tab Content "It is a long established fact that a reader will be distracted"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355963' status='passed' stop='1661443355996'>
+            <name>Then I expect to displayed Menu Button "Menu"</name>
+            <title>Then I expect to displayed Menu Button "Menu"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443355996' status='passed' stop='1661443356010'>
+            <name>When I scroll on Menu Button "Menu"</name>
+            <title>When I scroll on Menu Button "Menu"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356010' status='passed' stop='1661443356045'>
+            <name>Then I expect that Menu Button is clickable "Menu"</name>
+            <title>Then I expect that Menu Button is clickable "Menu"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356045' status='passed' stop='1661443356087'>
+            <name>When I click on Menu Button "Menu"</name>
+            <title>When I click on Menu Button "Menu"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356087' status='passed' stop='1661443356105'>
+            <name>When I scroll Main Item "Main Item 1"</name>
+            <title>When I scroll Main Item "Main Item 1"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356105' status='passed' stop='1661443356136'>
+            <name>Then I expect to displayed Main Item 1 "Main Item 1"</name>
+            <title>Then I expect to displayed Main Item 1 "Main Item 1"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356136' status='passed' stop='1661443356152'>
+            <name>Then I expect that Main Item 1 enabled "Main Item 1"</name>
+            <title>Then I expect that Main Item 1 enabled "Main Item 1"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356152' status='passed' stop='1661443356184'>
+            <name>When I move to on Main Item 1 "Main Item 1"</name>
+            <title>When I move to on Main Item 1 "Main Item 1"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356184' status='passed' stop='1661443356221'>
+            <name>Then I expect to displayed Main Item 2 "Main Item 2"</name>
+            <title>Then I expect to displayed Main Item 2 "Main Item 2"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356221' status='passed' stop='1661443356240'>
+            <name>Then I expect that onMain Item 2 enabled "Main Item 2"</name>
+            <title>Then I expect that onMain Item 2 enabled "Main Item 2"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356240' status='passed' stop='1661443356284'>
+            <name>When I move to on Main Item 2 "Main Item 2"</name>
+            <title>When I move to on Main Item 2 "Main Item 2"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356284' status='passed' stop='1661443356335'>
+            <name>Then I expect to displayed Main Item 2 SUB "SUB SUB LIST »"</name>
+            <title>Then I expect to displayed Main Item 2 SUB "SUB SUB LIST »"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356335' status='passed' stop='1661443356349'>
+            <name>Then I expect that on Main Item 2 SUB enabled "SUB SUB LIST »"</name>
+            <title>Then I expect that on Main Item 2 SUB enabled "SUB SUB LIST »"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356349' status='passed' stop='1661443356373'>
+            <name>When I move to on Main Item 2 SUB "SUB SUB LIST »"</name>
+            <title>When I move to on Main Item 2 SUB "SUB SUB LIST »"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356373' status='passed' stop='1661443356400'>
+            <name>Then I expect to displayed Main Item 2 SUB 1 "Sub Sub Item 1"</name>
+            <title>Then I expect to displayed Main Item 2 SUB 1 "Sub Sub Item 1"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356400' status='passed' stop='1661443356416'>
+            <name>Then I expect that on Main Item 2 SUB 1 enabled "Sub Sub Item 1"</name>
+            <title>Then I expect that on Main Item 2 SUB 1 enabled "Sub Sub Item 1"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356416' status='passed' stop='1661443356440'>
+            <name>When I move to on Main Item 2 SUB 1 "Sub Sub Item 1"</name>
+            <title>When I move to on Main Item 2 SUB 1 "Sub Sub Item 1"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356440' status='passed' stop='1661443356467'>
+            <name>Then I expect to displayed Main Item 3 "Main Item 3"</name>
+            <title>Then I expect to displayed Main Item 3 "Main Item 3"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356467' status='passed' stop='1661443356481'>
+            <name>Then I expect that on Main Item 3 "Main Item 3"</name>
+            <title>Then I expect that on Main Item 3 "Main Item 3"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356481' status='passed' stop='1661443356506'>
+            <name>When I move to on Main Item 3 "Main Item 3"</name>
+            <title>When I move to on Main Item 3 "Main Item 3"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443356506' status='passed' stop='1661443356506'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-7'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

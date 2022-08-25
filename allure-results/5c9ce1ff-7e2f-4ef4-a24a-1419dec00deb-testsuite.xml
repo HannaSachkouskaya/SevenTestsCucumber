@@ -1,0 +1,327 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1661443445279' stop='1661443462578'>
+    <name>The Internet Guinea Pig Website: I am verify Interection item</name>
+    <title>The Internet Guinea Pig Website: I am verify Interection item</title>
+    <test-cases>
+        <test-case start='1661443445280' status='passed' stop='1661443445283'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443445283' status='passed' stop='1661443451925'>
+            <name>Given I am on the home page demoqa6</name>
+            <title>Given I am on the home page demoqa6</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443451925' status='passed' stop='1661443451986'>
+            <name>Then I expect home page6 is displayed</name>
+            <title>Then I expect home page6 is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443451986' status='passed' stop='1661443452028'>
+            <name>Then I expect to displayed Interection Button "Interactions"</name>
+            <title>Then I expect to displayed Interection Button "Interactions"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452028' status='passed' stop='1661443452044'>
+            <name>When I scroll on Interection Button "Interactions"</name>
+            <title>When I scroll on Interection Button "Interactions"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452044' status='passed' stop='1661443452074'>
+            <name>Then I expect that Interection Button is clickable "Interactions"</name>
+            <title>Then I expect that Interection Button is clickable "Interactions"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452074' status='passed' stop='1661443452152'>
+            <name>When I click on Interection Button "Interactions"</name>
+            <title>When I click on Interection Button "Interactions"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452152' status='passed' stop='1661443452219'>
+            <name>Then I expect to displayed Sortable Button "Sortable"</name>
+            <title>Then I expect to displayed Sortable Button "Sortable"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452219' status='passed' stop='1661443452235'>
+            <name>When I scroll on Sortable Button "Sortable"</name>
+            <title>When I scroll on Sortable Button "Sortable"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452235' status='passed' stop='1661443452260'>
+            <name>Then I expect that Sortable Button is clickable "Sortable"</name>
+            <title>Then I expect that Sortable Button is clickable "Sortable"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452261' status='passed' stop='1661443452313'>
+            <name>When I click on Sortable Button "Sortable"</name>
+            <title>When I click on Sortable Button "Sortable"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452313' status='passed' stop='1661443452352'>
+            <name>Then I expect to displayed List Tab "List"</name>
+            <title>Then I expect to displayed List Tab "List"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452352' status='passed' stop='1661443452453'>
+            <name>When I dragAndDrow One Element</name>
+            <title>When I dragAndDrow One Element</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452453' status='passed' stop='1661443452485'>
+            <name>Then I expect to displayed Grid Tab "Grid"</name>
+            <title>Then I expect to displayed Grid Tab "Grid"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452485' status='passed' stop='1661443452502'>
+            <name>Then I expect that Grid Tab is clickable "Grid"</name>
+            <title>Then I expect that Grid Tab is clickable "Grid"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452502' status='passed' stop='1661443452554'>
+            <name>When I click on Grid Tab "Grid"</name>
+            <title>When I click on Grid Tab "Grid"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443452554' status='broken' stop='1661443462573'>
+            <name>Then I expect to Seven Element</name>
+            <title>Then I expect to Seven Element</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Error: element ("//div[contains(text(), "Seven")]") still not displayed after 10000ms</message>
+                <stack-trace>Error: element ("//div[contains(text(), "Seven")]") still not displayed after 10000ms
+                    at C:\Users\Hanna_Sachkouskaya\Documents\Avtomation\SevenTests\node_modules\webdriverio\build\commands\browser\waitUntil.js:66:23
+                    at async Element.wrapCommandFn (C:\Users\Hanna_Sachkouskaya\Documents\Avtomation\SevenTests\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.elementErrorHandlerCallbackFn (C:\Users\Hanna_Sachkouskaya\Documents\Avtomation\SevenTests\node_modules\webdriverio\build\middlewares.js:24:32)
+                    at async Element.wrapCommandFn (C:\Users\Hanna_Sachkouskaya\Documents\Avtomation\SevenTests\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.wrapCommandFn (C:\Users\Hanna_Sachkouskaya\Documents\Avtomation\SevenTests\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async Element.elementErrorHandlerCallbackFn (C:\Users\Hanna_Sachkouskaya\Documents\Avtomation\SevenTests\node_modules\webdriverio\build\middlewares.js:24:32)
+                    at async Element.wrapCommandFn (C:\Users\Hanna_Sachkouskaya\Documents\Avtomation\SevenTests\node_modules\@wdio\utils\build\shim.js:137:29)
+                    at async World.&lt;anonymous> (C:\Users\Hanna_Sachkouskaya\Documents\Avtomation\SevenTests\features\step-definitions\interections.steps.js:86:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1661443462573' status='pending' stop='1661443462574'>
+            <name>When I scroll on Seven Element</name>
+            <title>When I scroll on Seven Element</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443462575' status='pending' stop='1661443462575'>
+            <name>When I dragAndDrow seven Element</name>
+            <title>When I dragAndDrow seven Element</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443462575' status='pending' stop='1661443462576'>
+            <name>When I scroll up Page</name>
+            <title>When I scroll up Page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443462576' status='pending' stop='1661443462576'>
+            <name>Then I expect to displayed Page</name>
+            <title>Then I expect to displayed Page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1661443462576' status='passed' stop='1661443462577'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-6'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-104.0.5112.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
